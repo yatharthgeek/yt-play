@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed on your system:
 2. **Make the script executable**:
 
    ```bash
-   chmod +x yt-play.sh
+   chmod +x play.sh
    ```
 
 3. **Run the script**:
